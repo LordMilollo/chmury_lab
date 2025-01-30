@@ -22,4 +22,5 @@ jobs:
         with:
           image-ref: 'my-debian-app'
           format: 'table'
+          exit-code: 1
 
